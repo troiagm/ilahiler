@@ -1,2 +1,2 @@
 # ilahiler
-mp3 olarak ilahi dosyaları
+mp3 olarak ilahi dosyaları yüklendi.
